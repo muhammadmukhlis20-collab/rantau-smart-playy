@@ -1,0 +1,8 @@
+{
+  "name": "RANTAU SMART PLAY",
+  "description": "Smart Learning, Happy Classroom - Aplikasi web edukatif berbasis gamifikasi dan AI untuk SDN 32 Rantau Bayur",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
